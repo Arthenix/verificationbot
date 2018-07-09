@@ -1,0 +1,13 @@
+{
+  "name": "VERIFICATION",
+  "description": "My verification bot",
+  "version": "0.0.0",
+  "main": "verification.py",
+  "scripts": {
+    "start": "node verification.py"
+  },
+  "dependencies": {
+    "discord.py",
+    "sqlite3"    
+  }
+}
